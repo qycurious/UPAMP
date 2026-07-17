@@ -2,7 +2,7 @@
 
 Official implementation of the paper:
 
-SDA-Net: An Interpretable Vision-Based Framework for Shrimp Disease Assessment
+UPAMP: Tackling Intra-Class Variance and Prompt Limitations in Zero-Shot Object Counting
 
 This repository is provided to facilitate reproducibility of the results reported in the paper.
 
