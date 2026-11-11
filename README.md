@@ -1,8 +1,8 @@
-# UPAMP-Tackling-Intra-Class-Variance-and-Prompt-Limitations-in-Zero-Shot-Object-Counting
+# Towards Zero-Shot Object Counting: Tackling Intra-Class Variance and Prompt Limitations
 
 Official implementation of the paper:
 
-UPAMP: Tackling Intra-Class Variance and Prompt Limitations in Zero-Shot Object Counting
+Towards Zero-Shot Object Counting: Tackling Intra-Class Variance and Prompt Limitations
 
 This repository is provided to facilitate reproducibility of the results reported in the paper.
 
